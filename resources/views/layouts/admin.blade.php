@@ -4,19 +4,19 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>@yield('title', 'Admin') — TechStore</title>
+    <title>@yield('title', 'Admin') — CENTIC CAUCA </title>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link href="https://fonts.googleapis.com/css2?family=Syne:wght@400;600;700;800&family=DM+Sans:wght@300;400;500&display=swap" rel="stylesheet">
     <style>
         :root {
-            --bg: #0a0b0f;
-            --surface: #12141a;
-            --card: #181b24;
-            --border: #252836;
+            --bg: #e5e8f3;
+            --surface: #e5e8f3;
+            --card: #e5e8f3;
+            --border: #000000;
             --accent: #00e5ff;
             --accent2: #ff3d71;
             --accent3: #a259ff;
-            --text: #e8eaf0;
+            --text: #101933;
             --muted: #6b7080;
             --success: #00d68f;
             --warning: #ffb800;

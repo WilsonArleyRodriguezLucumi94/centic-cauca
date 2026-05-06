@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>TechStore — Catálogo de Productos</title>
+    <title>CENTIC CAUCA — Catálogo de Productos</title>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link href="https://fonts.googleapis.com/css2?family=Syne:wght@400;600;700;800&family=DM+Sans:wght@300;400;500&display=swap" rel="stylesheet">
     
@@ -16,8 +16,8 @@
             --accent: #00e5ff;
             --accent2: #ff3d71;
             --accent3: #a259ff;
-            --text: #e8eaf0;
-            --muted: #6b7080;
+            --text: #ffffff;
+            --muted: #ffffff;
             --gaming: #ff3d71;
             --aio: #00e5ff;
             --laptop: #a259ff;
