@@ -1,6 +1,6 @@
 <!-- resources/views/catalog/partials/header.blade.php -->
 <header>
-    <div class="logo">Tech<span>Store</span></div>
+    <div class="logo">CENTIC<span>CAUCA</span></div>
     <div class="header-right">
         <div class="search-box">
             <span class="search-icon">🔍</span>
