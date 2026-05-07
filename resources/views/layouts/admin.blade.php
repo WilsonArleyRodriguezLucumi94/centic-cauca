@@ -9,18 +9,18 @@
     <link href="https://fonts.googleapis.com/css2?family=Syne:wght@400;600;700;800&family=DM+Sans:wght@300;400;500&display=swap" rel="stylesheet">
     <style>
         :root {
-            --bg: #e5e8f3;
-            --surface: #e5e8f3;
-            --card: #e5e8f3;
-            --border: #000000;
-            --accent: #00e5ff;
-            --accent2: #ff3d71;
-            --accent3: #a259ff;
-            --text: #101933;
-            --muted: #6b7080;
-            --success: #00d68f;
-            --warning: #ffb800;
-            --danger: #ff3d71;
+            --bg: #f0f4f8;
+            --surface: #e8ecf4;
+            --card: #ffffff;
+            --border: #d0d8e8;
+            --accent: #0066ff;
+            --accent2: #ff006e;
+            --accent3: #8338ec;
+            --text: #0a0e27;
+            --muted: #5a6a8a;
+            --success: #06ffa5;
+            --warning: #ffb703;
+            --danger: #ff006e;
         }
         * { margin: 0; padding: 0; box-sizing: border-box; }
         body {

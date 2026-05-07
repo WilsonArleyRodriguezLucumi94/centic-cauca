@@ -9,21 +9,21 @@
     
     <style>
         :root {
-            --bg: #0a0b0f;
-            --surface: #12141a;
-            --card: #181b24;
-            --border: #252836;
-            --accent: #00e5ff;
-            --accent2: #ff3d71;
-            --accent3: #a259ff;
-            --text: #ffffff;
-            --muted: #ffffff;
-            --gaming: #ff3d71;
-            --aio: #00e5ff;
-            --laptop: #a259ff;
-            --printer: #00d68f;
-            --accs: #ffb800;
-        }
+            --bg: #080c20;
+            --surface: #0f1535;
+            --card: #131a3d;
+            --border: #1e2a5a;
+            --accent: #00d4ff;
+            --accent2: #ff006e;
+            --accent3: #8338ec;
+            --text: #e8f4f8;
+            --muted: #5a6a8a;
+            --gaming: #ff006e;
+            --aio: #00d4ff;
+            --laptop: #8338ec;
+            --printer: #06ffa5;
+            --accs: #ffb703;
+}
 
         * { margin: 0; padding: 0; box-sizing: border-box; }
 
