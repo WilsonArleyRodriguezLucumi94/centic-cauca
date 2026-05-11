@@ -245,9 +245,12 @@
     <header class="admin-header">
         <div class="admin-logo">TechStore Admin</div>
         <nav class="admin-nav">
-            {{-- CORREGIDO: route('dashboard') en lugar de route('admin.dashboard') --}}
             <a href="{{ route('dashboard') }}" class="{{ request()->routeIs('dashboard') ? 'active' : '' }}">Dashboard</a>
             <a href="{{ route('admin.products.index') }}" class="{{ request()->routeIs('admin.products.*') ? 'active' : '' }}">Productos</a>
+            <a href="{{ route('admin.categories.index') }}" class="{{ request()->routeIs('admin.categories.*') ? 'active' : '' }}">Categorías</a>
+            <a href="{{ route('admin.brands.index') }}" class="{{ request()->routeIs('admin.brands.*') ? 'active' : '' }}">Marcas</a>
+            <a href="{{ route('admin.customers.index') }}" class="{{ request()->routeIs('admin.customers.*') ? 'active' : '' }}">Clientes</a>
+            <a href="{{ route('admin.quotations.index') }}" class="{{ request()->routeIs('admin.quotations.*') ? 'active' : '' }}">Cotizaciones</a>
             <a href="{{ route('catalog.index') }}">Ver Catálogo</a>
         </nav>
         <div class="user-menu">

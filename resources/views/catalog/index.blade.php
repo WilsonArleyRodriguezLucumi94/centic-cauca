@@ -2,7 +2,7 @@
 
 @section('content')
     <x-catalog.hero 
-        eyebrow="📅 Catálogo — Abril 2026"
+        eyebrow="¡Bienvenido a CENTIC CAUCA!"
         title="Tu tecnología,<br><em>al mejor precio</em>"
         subtitle="Portátiles, All in One, Gaming, Impresoras y más. Precios IVA incluido."
     />
